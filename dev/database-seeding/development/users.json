@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "email": "jlavinh@gmail.com",
+    "password": "password",
+    "profile": "admin",
+    "validated_at": "2010-01-05",
+    "apikey": "AIzaSyCcjJUjQgFfXoS9JfZxp80spzg7RoOD-Tg"
+  },
+  {
+    "id": 2,
+    "email": "julie@domain.tld",
+    "password": "julie-password",
+    "validated_at": "2010-01-05"
+  },
+  {
+    "id": 3,
+    "email": "john@doe.tld",
+    "password": "john-password"
+  },
+  {
+    "id": 4,
+    "email": "karl@ny.tld",
+    "password": "karlany-password"
+  },
+  {
+    "id": 5,
+    "email": "kitty@marvelo.us",
+    "password": "shadowcat-password"
+  }
+]

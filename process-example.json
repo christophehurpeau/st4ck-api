@@ -1,0 +1,22 @@
+{
+  "apps" : [{
+    "name"              : "my-api",
+    "script"            : "lib/app/index.js",
+    "watch"             : false,
+    "exec_mode"         : "cluster",
+    "instances"         : 4,
+    "max_memory_restart": "150M",
+    "autorestart"       : true,
+    "max_restarts"      : 100,
+    "restart_delay"     : 100,
+    "merge_logs"        : true,
+    "env": {
+      "NODE_ENV"      : "production",
+      "WEB_PORT"      : 3000,
+      "WEB_URL"       : "http://localhost:3000",
+      "LOG_PATH"      : "/tmp",
+      "DATABASES_MAIN": "mongodb://localhost:27272/myapp-prod",
+      "TOKEN_SECRET"  : "supercalifragilisticexpialidocious"
+    }
+  }]
+}

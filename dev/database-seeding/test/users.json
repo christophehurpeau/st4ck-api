@@ -1,0 +1,24 @@
+[
+  {
+    "email": "jlavinh@gmail.com",
+    "password": "password",
+    "profile": "admin"
+  },
+  {
+    "email": "julie@domain.tld",
+    "password": "julie-password",
+    "profile": "admin"
+  },
+  {
+    "email": "john@doe.tld",
+    "password": "john-password"
+  },
+  {
+    "email": "karl@ny.tld",
+    "password": "karlany-password"
+  },
+  {
+    "email": "kitty@marvelo.us",
+    "password": "shadowcat-password"
+  }
+]
