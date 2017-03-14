@@ -1,5 +1,7 @@
 # st4ck-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/st4ck-api.svg)](https://greenkeeper.io/)
+
 A stack to build a json api app with all basic stuff needed:
 
 - **technically**: koa + extended ko router + controller + services + model (based on mongoose)
